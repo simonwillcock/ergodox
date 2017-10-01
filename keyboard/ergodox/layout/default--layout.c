@@ -570,7 +570,7 @@ KB_MATRIX_LAYER(
 	// right hand
 	NULL,	ktrans,	ktrans,	ktrans,	ktrans,	ktrans,	ktrans,	
 	ktrans,	kprrel,	kprrel,	sshprre,	kprrel,	sshprre,	ktrans,	
-	sshprre,	kprrel,	kprrel,	kprrel,	kprrel,	ktrans,	
+	sshprre,	kprrel,	kprrel,	sshprre,	sshprre,	ktrans,	
 	ktrans,	sshprre,	sshprre,	sshprre,	sshprre,	sshprre,	ktrans,	
 	NULL,	lpop2,	ktrans,	ktrans,	ktrans,	
 	ktrans,	ktrans,	
